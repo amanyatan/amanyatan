@@ -1,18 +1,227 @@
-# 💫 About Me:
-I'm currently a freelancer<br>Open to Join any kind of Saas Start-up<br>learning Aiml and Creating Workflows<br>
+<div align="center">
 
+# ✦ AMAN YATAN ✦
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@amanyatann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@amannyatan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@amanyatan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@aman_yatan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yatanaman25@gmail.com) 
+### Designer • Full Stack Developer • AI Engineer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=FFBE0B&center=true&vCenter=true&width=700&lines=Building+Experiences%2C+Not+Just+Applications.;Designing+Interfaces+People+Remember.;Engineering+AI+That+Actually+Solves+Problems.;Turning+Ideas+Into+Products." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=fb5607&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amanyatann&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# ◉ Philosophy
+
+> **Great software isn't only engineered.  
+> It's carefully designed, thoughtfully animated, and built to leave an impression.**
+
+I love creating products where **design**, **motion**, **AI**, and **engineering**
+work together as one experience.
+
+From pixel-perfect interfaces to scalable backend systems,
+I enjoy building products that people genuinely enjoy using.
+
+---
+
+# ◉ Current Focus
+
+```txt
+Design Systems
+███████████████████░ 95%
+
+React Ecosystem
+██████████████████░░ 90%
+
+AI Engineering
+█████████████████░░░ 85%
+
+Backend Development
+████████████████░░░░ 80%
+
+Motion Design
+██████████████████░░ 90%
+```
+
+---
+
+# ◉ Tech Arsenal
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
+</p>
+
+Design System • UI/UX • Motion • Prototyping • Branding
+
+---
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" />
+</p>
+
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,supabase,firebase,mysql,postgres" />
+</p>
+
+---
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+LangChain • OpenAI • Gemini • RAG • AI Agents • Prompt Engineering
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+</p>
+
+---
+
+# ◉ Design Principles
+
+```
+Minimal
+        ↓
+Functional
+        ↓
+Beautiful
+        ↓
+Memorable
+```
+
+Every animation should have purpose.
+
+Every interaction should feel satisfying.
+
+Every interface should tell a story.
+
+---
+
+# ◉ GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffbe0b&icon_color=fb5607&text_color=ffffff"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=ffbe0b&fire=fb5607&currStreakLabel=ffffff"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=00000000&color=ffbe0b&line=fb5607&point=ffffff"/>
+
+</p>
+
+---
+
+# ◉ Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ◉ Featured Technologies
+
+<table>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react"/>
+<br>
+React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<br>
+Next.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+<br>
+Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+<br>
+FastAPI
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase"/>
+<br>
+Supabase
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<br>
+Tailwind
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ◉ Quote
+
+> **"People remember how your product makes them feel.  
+> Code makes it work. Design makes it unforgettable."**
+
+---
+
+<div align="center">
+
+### Let's Build Something Extraordinary.
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-fb5607?style=for-the-badge"/>
+</a>
+
+</div>
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@AmanYatan) 
 
