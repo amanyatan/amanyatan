@@ -118,9 +118,9 @@ Every interface should tell a story.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffbe0b&icon_color=fb5607&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanyatan&show_icons=true&theme=transparent&hide_border=true&title_color=ffbe0b&icon_color=fb5607&text_color=ffffff"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=ffbe0b&fire=fb5607&currStreakLabel=ffffff"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=amanyatan&theme=transparent&hide_border=true&ring=ffbe0b&fire=fb5607&currStreakLabel=ffffff"/>
 
 </p>
 
@@ -205,25 +205,25 @@ Tailwind
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/amanyatan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/amanyatan">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://myportfolio-amanyatan.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yatanaman25@gmail.com">
 <img src="https://img.shields.io/badge/Email-fb5607?style=for-the-badge"/>
 </a>
 
-</div>
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@AmanYatan) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@AmanYatan)
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
